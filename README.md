@@ -1,3 +1,18 @@
+<h4 align="center">
+    <a href="https://github.com/Madan007/ALERT-CLI">
+	<img width="675" alt="image" src="https://user-images.githubusercontent.com/15178258/160086442-dfa20ee0-c935-4b87-970c-0bb650f34f77.png">    
+    </a>
+    <br>
+    <br>
+
+Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error.
+<br>
+Work on macOS, Linux, and Windows.
+
+</h4>
+
+<br>
+
 # super-alerts-cli
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
