@@ -13,14 +13,14 @@ Work on macOS, Linux, and Windows.
 
 <br>
 
-# super-alerts-cli
+# super-alert-cli
 
 [![📟](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/install.png)](./../../)
 
 ## Install
 
 ```sh
-npm install super-alerts-cli
+npm install super-alert-cli
 ```
 
 <br>
@@ -30,7 +30,7 @@ npm install super-alerts-cli
 ## Usage
 
 ```js
-const alert = require('super-alerts-cli');
+const alert = require('super-alert-cli');
 
 // Test case: when success options are provided
 //Output: ✔  SUCCESS  All done!
