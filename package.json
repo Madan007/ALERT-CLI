@@ -1,0 +1,40 @@
+{
+	"name": "alert-cli",
+	"version": "1.0.0",
+	"description": "Cross platform CLI Alerts with colors & colored symbols for success, info, warning, error. Works on macOS, Linux, and Windows.",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Madan007/ALERT-CLI.git"
+	},
+	"keywords": [
+		"alert-cli",
+		"Node.JS",
+		"CLI"
+	],
+	"author": {
+		"name": "Madan Kumar",
+		"email": "kmadan77@gmail.com",
+		"url": "https://github.com/Madan007"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/Madan007/ALERT-CLI/issues"
+	},
+	"homepage": "https://github.com/Madan007/ALERT-CLI#readme",
+	"devDependencies": {
+		"prettier": "^2.6.1"
+	},
+	"dependencies": {
+		"chalk": "^5.0.1",
+		"log-symbols": "^5.1.0"
+	},
+	"scripts": {
+		"test": "node test.js",
+		"format": "prettier --write \"./**/*.{js,json}\""
+	}
+}
