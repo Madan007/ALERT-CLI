@@ -20,7 +20,7 @@ Work on macOS, Linux, and Windows.
 ## Install
 
 ```sh
-npm super-alerts-cli
+npm install super-alerts-cli
 ```
 
 <br>
